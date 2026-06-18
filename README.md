@@ -1,8 +1,10 @@
 # knowledgepress-releases
 
-Official download & release channel for **KnowledgePress** — export Salesforce
-Knowledge Articles into clean, print-ready PDFs. (The application source is
-maintained privately; this repo hosts only the published, signed build artifacts.)
+The official download and release channel for **KnowledgePress**, which exports
+Salesforce Knowledge Articles into clean, print-ready PDFs. (The application source
+is maintained privately; this repo hosts only the published, signed build artifacts.)
+
+![KnowledgePress](screenshot.png)
 
 ## Download
 Grab **`KnowledgePress.zip`** from the [latest release](https://github.com/beebojones/knowledgepress-releases/releases/latest),
